@@ -9,7 +9,7 @@
 ### To Run
 
 * `python3 quote_system.py`
-* follow the input prompts to play the game
+* follow the input prompts to run the program
 
 ### To Test
 
